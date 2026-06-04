@@ -5,10 +5,10 @@ Este Repositorio esta destinado al módulo 3 de la materia 'Técnicas y herramie
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Guía para Simul8 en PDF](https://github.com/jarasantiago/Modulo_3/blob/main/Gu%C3%ADa%20Simul8/Gu%C3%ADa%20para%20Simul8.pdf)
+[Descarga Guía para Simul8 en PDF](https://github.com/tiago-friscolanti/M-dulo-3/blob/main/Gu%C3%ADa%20para%20Simul8.pdf)
 
-[Descarga el archivo zip. con todo el proyecto](https://github.com/jarasantiago/Modulo_3/blob/main/Gu%C3%ADa%20Simul8/Gu%C3%ADa%20para%20Simul8.zip)
+[Descarga el archivo zip. con todo el proyecto](https://github.com/tiago-friscolanti/M-dulo-3/blob/main/Gu%C3%ADa%20para%20Simul8.zip)
 
 # Entrega de Archivo Industria Vitivinícola 
 
-[Descarga el archivo zip. con todo el proyecto](https://github.com/jarasantiago/Modulo_3/blob/main/Industria%20Vitivin%C3%ADcola.S8)
+[Descarga el archivo zip. con todo el proyecto](https://github.com/tiago-friscolanti/M-dulo-3/blob/main/Industria%20Vitivin%C3%ADcola.S8)
